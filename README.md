@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm Shubham Sonawane 👋
 
-<!--
-**shubham-sonawane-dev/shubham-sonawane-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://img.shields.io/badge/Software_Developer-blue?style=for-the-badge&logo=appveyor)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I'm a **Software Developer** passionate about building scalable and efficient web applications. I enjoy working with modern technologies and continuously learning new skills to improve my craft.  
+
+- 📅 **Date of Birth:** 17 July 1999  
+- 💻 **Current Role:** Software Developer  
+- 🌐 **Website/Portfolio:** [shubham-sonawane.dev](https://shubham-sonawane.dev)  
+
+---
+
+## 🛠 Technologies & Tools
+
+### Frontend
+- HTML, CSS, JavaScript, TypeScript  
+- React.js, Next.js  
+- Tailwind CSS  
+
+### Backend
+- Node.js, Express.js  
+- MongoDB, PostgreSQL  
+
+### Tools & Platforms
+- Git & GitHub  
+- CI/CD (GitHub Actions)  
+
+---
+
+## ⚡ GitHub Stats
+![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubham-sonawane-dev&show_icons=true&theme=radical)
+
+---
+
+## 🌱 Currently Learning
+- Advanced AWS services  
+
+---
+
+## 📫 How to Reach Me
+- Email: [your-email@example.com](mailto:your-email@example.com)  
+- LinkedIn: [linkedin.com/in/shubham-sonawane](https://linkedin.com/in/shubham-sonawane)  
+- Portfolio: [shubham-sonawane.dev](https://shubham-sonawane.dev)  
+
